@@ -1,4 +1,14 @@
 # Don-t-talk
+ <br>
+<p align="center">
+    <img align="center" src=https://github.com/user-attachments/assets/9dab3f42-33f8-4d8a-af86-59d08a184918>
+    
+</p>
+<br>
+
+
+
+
 
 Это небольшой проект-мессенджер на customtkinter работающий на ncat. Запустить можно на своем сервере(обязательно с белый ip, для доступа из любой точки мира!)
 
